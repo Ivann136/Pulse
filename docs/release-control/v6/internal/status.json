@@ -7741,6 +7741,11 @@
         },
         {
           "repo": "pulse",
+          "path": "frontend-modern/src/i18n/messages.fr.ts",
+          "kind": "file"
+        },
+        {
+          "repo": "pulse",
           "path": "frontend-modern/src/i18n/messages.ts",
           "kind": "file"
         },
